@@ -8,7 +8,7 @@ public class BreakandContinue {
 			
 //			if(i==5)
 //				break;
-			if(i>=0)
+			if(i>=5 && i<=7)
 				continue;
 			System.out.println(i);
 		}
