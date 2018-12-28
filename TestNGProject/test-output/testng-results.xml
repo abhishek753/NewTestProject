@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35" started-at="2018-12-28T12:36:48Z" finished-at="2018-12-28T12:36:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35" started-at="2018-12-28T12:36:48Z" finished-at="2018-12-28T12:36:48Z">
+      <class name="com.title.qa.base.TestNG_Priority_Annotation">
+        <test-method status="PASS" signature="a_method()[pri:0, instance:com.title.qa.base.TestNG_Priority_Annotation@5e5792a0]" name="a_method" duration-ms="8" started-at="2018-12-28T12:36:48Z" finished-at="2018-12-28T12:36:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a_method -->
+        <test-method status="PASS" signature="b_method()[pri:0, instance:com.title.qa.base.TestNG_Priority_Annotation@5e5792a0]" name="b_method" duration-ms="1" started-at="2018-12-28T12:36:48Z" finished-at="2018-12-28T12:36:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b_method -->
+        <test-method status="PASS" signature="c_method()[pri:0, instance:com.title.qa.base.TestNG_Priority_Annotation@5e5792a0]" name="c_method" duration-ms="0" started-at="2018-12-28T12:36:48Z" finished-at="2018-12-28T12:36:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c_method -->
+        <test-method status="PASS" signature="d_method()[pri:0, instance:com.title.qa.base.TestNG_Priority_Annotation@5e5792a0]" name="d_method" duration-ms="1" started-at="2018-12-28T12:36:48Z" finished-at="2018-12-28T12:36:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- d_method -->
+        <test-method status="PASS" signature="e_method()[pri:0, instance:com.title.qa.base.TestNG_Priority_Annotation@5e5792a0]" name="e_method" duration-ms="0" started-at="2018-12-28T12:36:48Z" finished-at="2018-12-28T12:36:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- e_method -->
+      </class> <!-- com.title.qa.base.TestNG_Priority_Annotation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
